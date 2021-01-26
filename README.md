@@ -73,12 +73,6 @@ class MastermindController {
 
 You are to provide the implementation of all three classes, but you must define your controller and model using at least the methods above. Any additional methods or fields you want to add must be private to your classes.
 
-## Unit Testing
-
-As part of the starter code, you'll notice a ``MastermindTest`` class. This class contains a number of unit test stubs, whose job it is to ensure that your controller logic is working. In Test Driven Design (TDD), we write a very small number of test cases (start with just one) that fails and then we fix the code so that the test then passes. Your submission will not be graded on the test cases that you submit. It will be graded on the correctness of your program, so making good test cases that expose the bugs of your logic will mean that your program works -- and you'll get a good grade.
-
-However, we will grade your submitted test cases and count them as a lab grade.
-
 ## Hints and Notes
 
 * For right color, wrong place, you will need to not count colors from the guess that are the right color in the right place.
