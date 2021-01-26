@@ -78,7 +78,7 @@ You are to provide the implementation of all three classes, but you must define 
 * For right color, wrong place, you will need to not count colors from the guess that are the right color in the right place.
 * You also need to avoid double counting a color as being in the wrong position
 * To help you solve these issues, you may find it necessary to make some auxiliary arrays that keep track of what you have used already
-* You may want to play the game on paper where you consider various guesses and solutions and score them to see the issue. Then turn these into your JUnit test cases.
+* You may want to play the game on paper where you consider various guesses and solutions and score them to see the issue. 
 
 * The perfect player can always win this game in 7 guesses or less.
 
